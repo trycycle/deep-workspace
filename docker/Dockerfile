@@ -10,6 +10,9 @@ ENV PIP_BREAK_SYSTEM_PACKAGES=1
 # 必要なパッケージのインストールと日本語環境の設定
 RUN apt-get update && \
     apt-get install -y \
+    curl \
+    tmux \
+    vim \
     build-essential \
     python3 \
     python3-pip \
