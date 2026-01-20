@@ -18,7 +18,7 @@ nltk
 # unidic-lite
 
 # ---- 画像処理 ----
-opencv-python
+# opencv-python
 
 # ---- 深層学習 ----
 torch
