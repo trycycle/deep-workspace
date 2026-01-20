@@ -18,6 +18,10 @@ RUN apt-get update && \
     python3-dev \
     git \
     locales \
+    gfortran \
+    # --- 追加: MySQL接続用 (mysqlclientに必須) ---
+    pkg-config \
+    default-libmysqlclient-dev \
     && apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 

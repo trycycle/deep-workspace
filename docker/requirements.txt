@@ -4,15 +4,17 @@ numpy
 pandas
 scipy
 openpyxl
+zenhan
 
 # ---- 機械学習 ----
 scikit-learn
 networkx
+#pyvis
+#scikit-surprise
 
 # ---- 深層学習 ----
 torch
 torchvision
-torchtext
 transformers
 
 # ---- 生成AI ----
@@ -39,6 +41,13 @@ seaborn
 plotly
 altair
 vl-convert-python
+folium
+
+# ---- スクレイピング ----
+beautifulsoup4
+lxml
+langextract
+#playwright
 
 # ---- 開発環境 ----
 jupyterlab
@@ -46,4 +55,7 @@ ipykernel
 tqdm
 ruff
 python-box
+python-dateutil
 watermark
+pip-review
+click
