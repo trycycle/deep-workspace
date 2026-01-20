@@ -12,6 +12,11 @@ networkx
 #pyvis
 #scikit-surprise
 
+# ---- 自然言語処理 ----
+nltk
+#mecab-python3
+#unidic-lite
+
 # ---- 深層学習 ----
 torch
 torchvision
@@ -59,3 +64,12 @@ python-dateutil
 watermark
 pip-review
 click
+
+# ---- ウェブ開発 ----
+# django
+# django-debug-toolbar
+# django-extensions
+# mysqlclient
+
+# ---- 出版 ----
+# jupyter-book
