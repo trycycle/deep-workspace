@@ -9,13 +9,16 @@ zenhan
 # ---- 機械学習 ----
 scikit-learn
 networkx
-#pyvis
-#scikit-surprise
+# pyvis
+# scikit-surprise
 
 # ---- 自然言語処理 ----
 nltk
-#mecab-python3
-#unidic-lite
+# mecab-python3
+# unidic-lite
+
+# ---- 画像処理 ----
+opencv-python
 
 # ---- 深層学習 ----
 torch
@@ -32,7 +35,7 @@ langchain-ollama
 statsmodels
 pingouin
 dabest
-#prophet # Facebook謹製時系列予測ライブラリ
+# prophet # Facebook謹製時系列予測ライブラリ
 
 # ---- ベイズ統計 ----
 pymc
