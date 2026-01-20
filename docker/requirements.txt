@@ -1,0 +1,49 @@
+# ---- 基盤 ----
+accelerate
+numpy
+pandas
+scipy
+openpyxl
+
+# ---- 機械学習 ----
+scikit-learn
+networkx
+
+# ---- 深層学習 ----
+torch
+torchvision
+torchtext
+transformers
+
+# ---- 生成AI ----
+langchain
+langchain-openai
+langchain-google-genai
+langchain-ollama
+
+# ---- 統計 ----
+statsmodels
+pingouin
+dabest
+#prophet # Facebook謹製時系列予測ライブラリ
+
+# ---- ベイズ統計 ----
+pymc
+bambi
+arviz
+
+# ---- 可視化 ----
+matplotlib
+japanize-matplotlib
+seaborn
+plotly
+altair
+vl-convert-python
+
+# ---- 開発環境 ----
+jupyterlab
+ipykernel
+tqdm
+ruff
+python-box
+watermark
